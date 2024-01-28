@@ -108,8 +108,8 @@ id: Gabon
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Gabon//
-markerFolder: ./Gabon//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Gabon] 
