@@ -40,11 +40,18 @@ markerFolder: ./Ogooué-Lolo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo|Ogooué-Lolo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo.public|Ogooué-Lolo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo.internal|Ogooué-Lolo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo.protect|Ogooué-Lolo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo.private|Ogooué-Lolo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo.personal|Ogooué-Lolo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo.secret|Ogooué-Lolo.secret]] 
+
+### #is_/same_as :: [Ogooué-Lolo](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Lolo.md) 
+
+### #is_/same_as :: [Ogooué-Lolo.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Lolo.public.md) 
+
+### #is_/same_as :: [Ogooué-Lolo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Lolo.internal.md) 
+
+### #is_/same_as :: [Ogooué-Lolo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Lolo.protect.md) 
+
+### #is_/same_as :: [Ogooué-Lolo.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Lolo.private.md) 
+
+### #is_/same_as :: [Ogooué-Lolo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Lolo.personal.md) 
+
+### #is_/same_as :: [Ogooué-Lolo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Lolo.secret.md)
 

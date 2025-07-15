@@ -40,11 +40,18 @@ markerFolder: ./Ngounié/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Gabon/Counties/Ngounié|Ngounié]] 
-- [[../../../../../../_public/geo/Continent/Africa/Gabon/Counties/Ngounié.public|Ngounié.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Gabon/Counties/Ngounié.internal|Ngounié.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Gabon/Counties/Ngounié.protect|Ngounié.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Gabon/Counties/Ngounié.private|Ngounié.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Gabon/Counties/Ngounié.personal|Ngounié.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Gabon/Counties/Ngounié.secret|Ngounié.secret]] 
+
+### #is_/same_as :: [Ngounié](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ngounié.md) 
+
+### #is_/same_as :: [Ngounié.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ngounié.public.md) 
+
+### #is_/same_as :: [Ngounié.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ngounié.internal.md) 
+
+### #is_/same_as :: [Ngounié.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ngounié.protect.md) 
+
+### #is_/same_as :: [Ngounié.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ngounié.private.md) 
+
+### #is_/same_as :: [Ngounié.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ngounié.personal.md) 
+
+### #is_/same_as :: [Ngounié.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ngounié.secret.md)
 

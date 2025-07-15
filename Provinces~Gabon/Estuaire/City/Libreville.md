@@ -1,4 +1,4 @@
-﻿---
+---
 location: [0.3833333,9.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Gabon/City/Libreville|Libreville]] 
-- [[../../../../../../_public/geo/Continent/Africa/Gabon/City/Libreville.public|Libreville.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Gabon/City/Libreville.internal|Libreville.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Gabon/City/Libreville.protect|Libreville.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Gabon/City/Libreville.private|Libreville.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Gabon/City/Libreville.personal|Libreville.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Gabon/City/Libreville.secret|Libreville.secret]] 
+
+### #is_/same_as :: [Libreville](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.md) 
+
+### #is_/same_as :: [Libreville.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.public.md) 
+
+### #is_/same_as :: [Libreville.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.internal.md) 
+
+### #is_/same_as :: [Libreville.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.protect.md) 
+
+### #is_/same_as :: [Libreville.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.private.md) 
+
+### #is_/same_as :: [Libreville.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.personal.md) 
+
+### #is_/same_as :: [Libreville.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.secret.md)
+

@@ -40,11 +40,18 @@ markerFolder: ./Haut-Ogooué/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué|Haut-Ogooué]] 
-- [[../../../../../../_public/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué.public|Haut-Ogooué.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué.internal|Haut-Ogooué.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué.protect|Haut-Ogooué.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué.private|Haut-Ogooué.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué.personal|Haut-Ogooué.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué.secret|Haut-Ogooué.secret]] 
+
+### #is_/same_as :: [Haut-Ogooué](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Haut-Ogooué.md) 
+
+### #is_/same_as :: [Haut-Ogooué.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Haut-Ogooué.public.md) 
+
+### #is_/same_as :: [Haut-Ogooué.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Haut-Ogooué.internal.md) 
+
+### #is_/same_as :: [Haut-Ogooué.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Haut-Ogooué.protect.md) 
+
+### #is_/same_as :: [Haut-Ogooué.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Haut-Ogooué.private.md) 
+
+### #is_/same_as :: [Haut-Ogooué.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Haut-Ogooué.personal.md) 
+
+### #is_/same_as :: [Haut-Ogooué.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Haut-Ogooué.secret.md)
 

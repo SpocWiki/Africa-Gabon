@@ -130,10 +130,4 @@ Capital :: [[Libreville]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Gabon|Gabon]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~Central/Gabon.internal|Gabon.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~Central/Gabon.protect|Gabon.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~Central/Gabon.private|Gabon.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~Central/Gabon.personal|Gabon.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~Central/Gabon.secret|Gabon.secret]] 
+

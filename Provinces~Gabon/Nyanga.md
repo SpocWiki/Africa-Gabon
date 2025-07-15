@@ -40,11 +40,18 @@ markerFolder: ./Nyanga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Gabon/Counties/Nyanga|Nyanga]] 
-- [[../../../../../../_public/geo/Continent/Africa/Gabon/Counties/Nyanga.public|Nyanga.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Gabon/Counties/Nyanga.internal|Nyanga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Gabon/Counties/Nyanga.protect|Nyanga.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Gabon/Counties/Nyanga.private|Nyanga.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Gabon/Counties/Nyanga.personal|Nyanga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Gabon/Counties/Nyanga.secret|Nyanga.secret]] 
+
+### #is_/same_as :: [Nyanga](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.md) 
+
+### #is_/same_as :: [Nyanga.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.public.md) 
+
+### #is_/same_as :: [Nyanga.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.internal.md) 
+
+### #is_/same_as :: [Nyanga.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.protect.md) 
+
+### #is_/same_as :: [Nyanga.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.private.md) 
+
+### #is_/same_as :: [Nyanga.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.personal.md) 
+
+### #is_/same_as :: [Nyanga.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.secret.md)
 

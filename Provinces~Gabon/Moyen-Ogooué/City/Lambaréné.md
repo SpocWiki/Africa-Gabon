@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-0.688333,10.2319] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Gabon/City/Lambaréné|Lambaréné]] 
-- [[../../../../../../_public/geo/Continent/Africa/Gabon/City/Lambaréné.public|Lambaréné.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Gabon/City/Lambaréné.internal|Lambaréné.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Gabon/City/Lambaréné.protect|Lambaréné.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Gabon/City/Lambaréné.private|Lambaréné.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Gabon/City/Lambaréné.personal|Lambaréné.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Gabon/City/Lambaréné.secret|Lambaréné.secret]] 
+
+### #is_/same_as :: [Lambaréné](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.md) 
+
+### #is_/same_as :: [Lambaréné.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.public.md) 
+
+### #is_/same_as :: [Lambaréné.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.internal.md) 
+
+### #is_/same_as :: [Lambaréné.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.protect.md) 
+
+### #is_/same_as :: [Lambaréné.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.private.md) 
+
+### #is_/same_as :: [Lambaréné.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.personal.md) 
+
+### #is_/same_as :: [Lambaréné.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.secret.md)
+

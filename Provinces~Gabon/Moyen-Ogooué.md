@@ -40,11 +40,18 @@ markerFolder: ./Moyen-Ogooué/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué|Moyen-Ogooué]] 
-- [[../../../../../../_public/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué.public|Moyen-Ogooué.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué.internal|Moyen-Ogooué.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué.protect|Moyen-Ogooué.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué.private|Moyen-Ogooué.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué.personal|Moyen-Ogooué.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué.secret|Moyen-Ogooué.secret]] 
+
+### #is_/same_as :: [Moyen-Ogooué](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué.md) 
+
+### #is_/same_as :: [Moyen-Ogooué.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué.public.md) 
+
+### #is_/same_as :: [Moyen-Ogooué.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué.internal.md) 
+
+### #is_/same_as :: [Moyen-Ogooué.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué.protect.md) 
+
+### #is_/same_as :: [Moyen-Ogooué.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué.private.md) 
+
+### #is_/same_as :: [Moyen-Ogooué.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué.personal.md) 
+
+### #is_/same_as :: [Moyen-Ogooué.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué.secret.md)
 

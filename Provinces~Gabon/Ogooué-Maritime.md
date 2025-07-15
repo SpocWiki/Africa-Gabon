@@ -40,11 +40,18 @@ markerFolder: ./Ogooué-Maritime/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime|Ogooué-Maritime]] 
-- [[../../../../../../_public/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.public|Ogooué-Maritime.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.internal|Ogooué-Maritime.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.protect|Ogooué-Maritime.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.private|Ogooué-Maritime.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.personal|Ogooué-Maritime.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.secret|Ogooué-Maritime.secret]] 
+
+### #is_/same_as :: [Ogooué-Maritime](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.md) 
+
+### #is_/same_as :: [Ogooué-Maritime.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.public.md) 
+
+### #is_/same_as :: [Ogooué-Maritime.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.internal.md) 
+
+### #is_/same_as :: [Ogooué-Maritime.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.protect.md) 
+
+### #is_/same_as :: [Ogooué-Maritime.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.private.md) 
+
+### #is_/same_as :: [Ogooué-Maritime.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.personal.md) 
+
+### #is_/same_as :: [Ogooué-Maritime.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.secret.md)
 

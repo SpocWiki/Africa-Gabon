@@ -40,11 +40,18 @@ markerFolder: ./Wouleu-Ntem/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Gabon/Counties/Wouleu-Ntem|Wouleu-Ntem]] 
-- [[../../../../../../_public/geo/Continent/Africa/Gabon/Counties/Wouleu-Ntem.public|Wouleu-Ntem.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Gabon/Counties/Wouleu-Ntem.internal|Wouleu-Ntem.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Gabon/Counties/Wouleu-Ntem.protect|Wouleu-Ntem.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Gabon/Counties/Wouleu-Ntem.private|Wouleu-Ntem.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Gabon/Counties/Wouleu-Ntem.personal|Wouleu-Ntem.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Gabon/Counties/Wouleu-Ntem.secret|Wouleu-Ntem.secret]] 
+
+### #is_/same_as :: [Wouleu-Ntem](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Wouleu-Ntem.md) 
+
+### #is_/same_as :: [Wouleu-Ntem.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Wouleu-Ntem.public.md) 
+
+### #is_/same_as :: [Wouleu-Ntem.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Wouleu-Ntem.internal.md) 
+
+### #is_/same_as :: [Wouleu-Ntem.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Wouleu-Ntem.protect.md) 
+
+### #is_/same_as :: [Wouleu-Ntem.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Wouleu-Ntem.private.md) 
+
+### #is_/same_as :: [Wouleu-Ntem.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Wouleu-Ntem.personal.md) 
+
+### #is_/same_as :: [Wouleu-Ntem.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Wouleu-Ntem.secret.md)
 
