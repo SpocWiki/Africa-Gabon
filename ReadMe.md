@@ -129,5 +129,19 @@ Capital :: [[Libreville]]
 [geo-lat::0.383333] 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [ReadMe](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/ReadMe.md) 
+
+### #is_/same_as :: [ReadMe.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon/ReadMe.public.md) 
+
+### #is_/same_as :: [ReadMe.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon/ReadMe.internal.md) 
+
+### #is_/same_as :: [ReadMe.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon/ReadMe.protect.md) 
+
+### #is_/same_as :: [ReadMe.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon/ReadMe.private.md) 
+
+### #is_/same_as :: [ReadMe.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon/ReadMe.personal.md) 
+
+### #is_/same_as :: [ReadMe.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon/ReadMe.secret.md)
 
