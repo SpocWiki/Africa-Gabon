@@ -1,36 +1,37 @@
 ---
 location:
-- 0.383333
-- 9.45
+  - 0.383333
+  - 9.45
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26898
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Gabon
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Gabon
-- Gabón
-- غابون
-- 加蓬
-- Габон
-- the Gabonese Republic
-- la República Gabonesa
-- Gabón (el)
+  - Gabon
+  - Gabón
+  - غابون
+  - 加蓬
+  - Габон
+  - the Gabonese Republic
+  - la República Gabonesa
+  - Gabón (el)
 Languages:
-- fr-GA
+  - fr-GA
 ---
 
 
