@@ -40,17 +40,17 @@ markerFolder: ./Ogooué-Ivindo/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ogooué-Ivindo](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Ivindo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Ivindo|Ogooué-Ivindo]] 
 
-### #is_/same_as :: [Ogooué-Ivindo.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Ivindo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Ivindo.public|Ogooué-Ivindo.public]] 
 
-### #is_/same_as :: [Ogooué-Ivindo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Ivindo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Ivindo.internal|Ogooué-Ivindo.internal]] 
 
-### #is_/same_as :: [Ogooué-Ivindo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Ivindo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Ivindo.protect|Ogooué-Ivindo.protect]] 
 
-### #is_/same_as :: [Ogooué-Ivindo.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Ivindo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Ivindo.private|Ogooué-Ivindo.private]] 
 
-### #is_/same_as :: [Ogooué-Ivindo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Ivindo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Ivindo.personal|Ogooué-Ivindo.personal]] 
 
-### #is_/same_as :: [Ogooué-Ivindo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Ivindo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Ivindo.secret|Ogooué-Ivindo.secret]] 
 

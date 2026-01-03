@@ -40,17 +40,17 @@ markerFolder: ./Ogooué-Maritime/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ogooué-Maritime](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime|Ogooué-Maritime]] 
 
-### #is_/same_as :: [Ogooué-Maritime.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.public|Ogooué-Maritime.public]] 
 
-### #is_/same_as :: [Ogooué-Maritime.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.internal|Ogooué-Maritime.internal]] 
 
-### #is_/same_as :: [Ogooué-Maritime.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.protect|Ogooué-Maritime.protect]] 
 
-### #is_/same_as :: [Ogooué-Maritime.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.private|Ogooué-Maritime.private]] 
 
-### #is_/same_as :: [Ogooué-Maritime.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.personal|Ogooué-Maritime.personal]] 
 
-### #is_/same_as :: [Ogooué-Maritime.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Ogooué-Maritime.secret|Ogooué-Maritime.secret]] 
 

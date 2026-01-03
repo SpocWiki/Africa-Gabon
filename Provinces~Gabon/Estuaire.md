@@ -40,17 +40,17 @@ markerFolder: ./Estuaire/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Estuaire](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire|Estuaire]] 
 
-### #is_/same_as :: [Estuaire.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire.public|Estuaire.public]] 
 
-### #is_/same_as :: [Estuaire.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire.internal|Estuaire.internal]] 
 
-### #is_/same_as :: [Estuaire.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire.protect|Estuaire.protect]] 
 
-### #is_/same_as :: [Estuaire.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire.private|Estuaire.private]] 
 
-### #is_/same_as :: [Estuaire.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire.personal|Estuaire.personal]] 
 
-### #is_/same_as :: [Estuaire.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire.secret|Estuaire.secret]] 
 

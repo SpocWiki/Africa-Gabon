@@ -105,19 +105,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Libreville)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Libreville](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville|Libreville]] 
 
-### #is_/same_as :: [Libreville.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.public|Libreville.public]] 
 
-### #is_/same_as :: [Libreville.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.internal|Libreville.internal]] 
 
-### #is_/same_as :: [Libreville.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.protect|Libreville.protect]] 
 
-### #is_/same_as :: [Libreville.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.private|Libreville.private]] 
 
-### #is_/same_as :: [Libreville.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.personal|Libreville.personal]] 
 
-### #is_/same_as :: [Libreville.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Estuaire/City/Libreville.secret|Libreville.secret]] 
 

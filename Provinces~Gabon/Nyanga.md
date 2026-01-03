@@ -40,17 +40,17 @@ markerFolder: ./Nyanga/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nyanga](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga|Nyanga]] 
 
-### #is_/same_as :: [Nyanga.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.public|Nyanga.public]] 
 
-### #is_/same_as :: [Nyanga.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.internal|Nyanga.internal]] 
 
-### #is_/same_as :: [Nyanga.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.protect|Nyanga.protect]] 
 
-### #is_/same_as :: [Nyanga.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.private|Nyanga.private]] 
 
-### #is_/same_as :: [Nyanga.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.personal|Nyanga.personal]] 
 
-### #is_/same_as :: [Nyanga.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Nyanga.secret|Nyanga.secret]] 
 

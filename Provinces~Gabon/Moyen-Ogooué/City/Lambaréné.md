@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lambaréné](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné|Lambaréné]] 
 
-### #is_/same_as :: [Lambaréné.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.public|Lambaréné.public]] 
 
-### #is_/same_as :: [Lambaréné.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.internal|Lambaréné.internal]] 
 
-### #is_/same_as :: [Lambaréné.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.protect|Lambaréné.protect]] 
 
-### #is_/same_as :: [Lambaréné.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.private|Lambaréné.private]] 
 
-### #is_/same_as :: [Lambaréné.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.personal|Lambaréné.personal]] 
 
-### #is_/same_as :: [Lambaréné.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Gabon/Provinces~Gabon/Moyen-Ogooué/City/Lambaréné.secret|Lambaréné.secret]] 
 
