@@ -14,29 +14,29 @@ tags:
 SpocWebEntityId: 35986
 isDeleted: false
 confidential: public
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Estuaire_Province,281109]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Estuaire_Province,281109|WD~Estuaire_Province,281109]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~port_city,2264924]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~port_city,2264924|WD~port_city,2264924]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Gabon_Estuary,3503114]]"
-  - "[[_Standards/WikiData/WD~Gulf_of_Guinea,41430]]"
-different_from: "[[_Standards/WikiData/WD~Libreville,16655654]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Libreville,39088047]]"
-head_of_government: "[[_Standards/WikiData/WD~Q134777791,134777791]]"
+  - "[[_Standards/WikiData/WD~Gabon_Estuary,3503114|WD~Gabon_Estuary,3503114]]"
+  - "[[_Standards/WikiData/WD~Gulf_of_Guinea,41430|WD~Gulf_of_Guinea,41430]]"
+different_from: "[[_Standards/WikiData/WD~Libreville,16655654|WD~Libreville,16655654]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Libreville,39088047|WD~timeline_of_Libreville,39088047]]"
+head_of_government: "[[_Standards/WikiData/WD~Q134777791,134777791|WD~Q134777791,134777791]]"
 coordinate_location: Point(9.4544 0.3901)
 inception: 1849-01-01T00:00:00Z
-capital_of: "[[_Standards/WikiData/WD~Gabon,1000]]"
-country: "[[_Standards/WikiData/WD~Gabon,1000]]"
+capital_of: "[[_Standards/WikiData/WD~Gabon,1000|WD~Gabon,1000]]"
+country: "[[_Standards/WikiData/WD~Gabon,1000|WD~Gabon,1000]]"
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~São_Tomé,3932]]"
-  - "[[_Standards/WikiData/WD~Durban,5468]]"
-  - "[[_Standards/WikiData/WD~Nice,33959]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-official_language: "[[_Standards/WikiData/WD~French,150]]"
+  - "[[_Standards/WikiData/WD~São_Tomé,3932|WD~São_Tomé,3932]]"
+  - "[[_Standards/WikiData/WD~Durban,5468|WD~Durban,5468]]"
+  - "[[_Standards/WikiData/WD~Nice,33959|WD~Nice,33959]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]"
+official_language: "[[_Standards/WikiData/WD~French,150|WD~French,150]]"
 elevation_above_sea_level: 13
 area: 189
 population: 899000
