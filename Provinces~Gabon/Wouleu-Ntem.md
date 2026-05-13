@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Wouleu-Ntem/
 markerFolder: ./Wouleu-Ntem/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

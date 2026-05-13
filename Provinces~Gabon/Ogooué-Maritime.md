@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ogooué-Maritime/
 markerFolder: ./Ogooué-Maritime/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

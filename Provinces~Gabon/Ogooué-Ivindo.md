@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ogooué-Ivindo/
 markerFolder: ./Ogooué-Ivindo/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

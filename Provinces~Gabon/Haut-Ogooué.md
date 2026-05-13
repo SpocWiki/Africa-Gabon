@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Haut-Ogooué/
 markerFolder: ./Haut-Ogooué/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Moyen-Ogooué/
 markerFolder: ./Moyen-Ogooué/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

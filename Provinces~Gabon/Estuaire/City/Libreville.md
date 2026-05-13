@@ -103,7 +103,7 @@ maxZoom: 18
 > 
 > Since 1960, Libreville has grown rapidly and now is home to one-third of the national population.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Libreville)
+> [Wikipedia](https://en.wikipedia.org/wiki/Libreville) 
 
 
 ## Confidential Links & Embeds: 
